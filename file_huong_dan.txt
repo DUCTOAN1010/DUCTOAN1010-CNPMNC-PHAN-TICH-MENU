@@ -1,0 +1,24 @@
+rồi được rồi đó
+Mỗi lần muốn chạy là trỏ vô thư mục "cnpmnc", bật command prompt trong thư mục này lên
+Cái cmd nó sẽ nhận địa chỉ ở thư mục cnpmnc
+gõ ".\venv\Scripts\activate" rồi enter (ko có dấu ngoặc kép)
+Nếu làm đúng nó sẽ có chữ (venv) trước dấu nhắc lệnh
+trỏ tiếp vô thư mục chứa source: dir
+ok mình đang ở thư mục chứa source ha, (Thiet-lap-API-phan....)
+
+cd  Thiet-Lap-API-Phan-Tich-Menu-
+
+gõ python api.py rồi enter
+
+
+đợi 1 tí, nếu nó hiện running on 127.0.0.1:5000 thì nó đang chạy trên localhost cổng 5000
+vô trình duyệt, tới localhost:5000
+
+Nhấn nút chọn hình ảnh, chọn hình ảnh ở trong thư mục Image (có trong source )
+Nhấn nút Chọn hình ảnh thì đợi 1 lát cho nó chạy, nó sẽ mở bảng chọn file
+À nó đây nè
+Chức năng của nó là đọc text từ hình ảnh ha
+
+
+tắt cmd thì localhost die
+xong r đó
